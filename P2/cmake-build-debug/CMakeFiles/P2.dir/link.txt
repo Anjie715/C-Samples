@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/P2.dir/P2/Complex.cc.o CMakeFiles/P2.dir/P2/fft2d.cc.o CMakeFiles/P2.dir/P2/InputImage.cc.o  -o P2.exe -Wl,--out-implib,libP2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
