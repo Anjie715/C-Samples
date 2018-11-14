@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/e2.dir/main.cc.o CMakeFiles/e2.dir/c2.cc.o  -o e2.exe -Wl,--out-implib,libe2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/anjie/Desktop/ECE6122/e2/e2/c2.cc
+iostream
+-
+vector
+-
+algorithm
+-
+e2.h
+/cygdrive/c/Users/anjie/Desktop/ECE6122/e2/e2/e2.h
+
+/cygdrive/c/Users/anjie/Desktop/ECE6122/e2/e2/e2.h
+vector
+-
+
+/cygdrive/c/Users/anjie/Desktop/ECE6122/e2/e2/main.cc
+iostream
+-
+vector
+-
+algorithm
+-
+chrono
+-
+random
+-
+future
+-
+e2.h
+/cygdrive/c/Users/anjie/Desktop/ECE6122/e2/e2/e2.h
+
