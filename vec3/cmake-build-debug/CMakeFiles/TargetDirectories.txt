@@ -1,0 +1,3 @@
+C:/Users/anjie/Desktop/ECE6122/vec3/vec3/cmake-build-debug/CMakeFiles/vec3.dir
+C:/Users/anjie/Desktop/ECE6122/vec3/vec3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anjie/Desktop/ECE6122/vec3/vec3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
