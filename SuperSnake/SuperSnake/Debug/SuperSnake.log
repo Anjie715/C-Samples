@@ -1,0 +1,5 @@
+﻿  Game.cpp
+g:\supersnake\supersnake\draw.h(8): warning C4091: “extern ”: 没有声明变量时忽略“strucPos”的左侧
+g:\supersnake\supersnake\board.h(13): warning C4091: “extern ”: 没有声明变量时忽略“strucPos”的左侧
+g:\supersnake\supersnake\snake.h(6): warning C4091: “extern ”: 没有声明变量时忽略“strucPos”的左侧
+  SuperSnake.vcxproj -> G:\SuperSnake\Debug\SuperSnake.exe
